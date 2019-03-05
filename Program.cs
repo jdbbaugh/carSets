@@ -37,9 +37,21 @@ namespace carSets
         showRoom.UnionWith(usedLot);
 
 
-        showRoom.Remove("Fiesta");
+
         showRoom.Remove("Vanagon");
-        Console.WriteLine(showRoom.Count);
+        // Console.WriteLine(showRoom.Count);
+
+        HashSet<string> junkYard = new HashSet<string>(){"g-bus", "911", "bug", "M300", "Mustang", "Firebird"};
+
+        HashSet<string> clone = new HashSet<string>(showRoom);
+        junkYard.Remove("g-bus");
+        junkYard.Remove("911");
+        clone.IntersectWith(junkYard);
+
+        foreach(string dub in clone)
+            {
+            Console.WriteLine(dub);
+            }
 
 
         }
