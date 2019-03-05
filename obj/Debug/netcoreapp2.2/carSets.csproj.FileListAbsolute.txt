@@ -1,0 +1,11 @@
+/Users/josephbaugh/workspace/NSS/backEnd/1book/6chap/carSets/bin/Debug/netcoreapp2.2/carSets.deps.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/6chap/carSets/bin/Debug/netcoreapp2.2/carSets.runtimeconfig.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/6chap/carSets/bin/Debug/netcoreapp2.2/carSets.runtimeconfig.dev.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/6chap/carSets/bin/Debug/netcoreapp2.2/carSets.dll
+/Users/josephbaugh/workspace/NSS/backEnd/1book/6chap/carSets/bin/Debug/netcoreapp2.2/carSets.pdb
+/Users/josephbaugh/workspace/NSS/backEnd/1book/6chap/carSets/obj/Debug/netcoreapp2.2/carSets.csprojAssemblyReference.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/6chap/carSets/obj/Debug/netcoreapp2.2/carSets.csproj.CoreCompileInputs.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/6chap/carSets/obj/Debug/netcoreapp2.2/carSets.AssemblyInfoInputs.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/6chap/carSets/obj/Debug/netcoreapp2.2/carSets.AssemblyInfo.cs
+/Users/josephbaugh/workspace/NSS/backEnd/1book/6chap/carSets/obj/Debug/netcoreapp2.2/carSets.dll
+/Users/josephbaugh/workspace/NSS/backEnd/1book/6chap/carSets/obj/Debug/netcoreapp2.2/carSets.pdb
